@@ -1,11 +1,11 @@
 {
-    "name": "Split Costs Application",
-    "short_name": "Split Costs",
+    "name": "React Project Template",
+    "short_name": "RPT",
     "display": "standalone",
-    "start_url": "/split-costs-frontend/#/",
+    "start_url": "/react-project-template/#/",
     "icons": [
         {
-            "src": "/split-costs-frontend/icon.png",
+            "src": "/react-project-template/icon.png",
             "sizes": "any",
             "type": "image/svg+xml",
             "purpose": "any"
