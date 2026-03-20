@@ -1,0 +1,6 @@
+.home__container {
+  padding: 10vh 10vw;
+  padding: 10svh 10svw;
+  box-sizing: border-box;
+  overflow: auto;
+}

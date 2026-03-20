@@ -1,0 +1,12 @@
+.app__container {
+    height: 100vh;
+    width: 100vw;
+    height: 100svh;
+    width: 100svw;
+}
+
+.app__content {
+    width: 100%;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
