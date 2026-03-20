@@ -1,0 +1,14 @@
+{
+    "name": "React Project Template",
+    "short_name": "RPT",
+    "display": "standalone",
+    "start_url": "/react-project-template/#/",
+    "icons": [
+        {
+            "src": "/react-project-template/icon.png",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
